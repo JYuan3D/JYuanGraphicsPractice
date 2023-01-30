@@ -1,0 +1,13 @@
+{
+  "name": "shenzhen-city",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server",
+    "serve": "http-server --cors -p 8888 -o"
+  },
+  "dependencies": {
+    "node-xlsx": "^0.15.0"
+  }
+}
